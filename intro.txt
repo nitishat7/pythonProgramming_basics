@@ -1,0 +1,23 @@
+
+# Day 1
+Python is an interpreted language. It was created by Guido van Rossum. It is open source and
+has the concepts of object-oriented programming.
+You do not need to compile your program before executing it,
+and python is processed at runtime by the interpreter thus it is called an interpreted language.
+
+
+#Day 2
+operator in python:
+
+-> Arithmetic Operators (+,-,*,/)
+-> Assignment Operators (=,+=,/=)
+
+#Day 3
+
+Implicit type conversion
+When data type conversion takes place during the run time or at compilation, it is called
+implicit type conversion. Python supports implicit type conversion, thus we do not have to keep
+on changing the data types , we can change it when required as shown in the example in file the
+day3.py!!
+
+
