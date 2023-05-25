@@ -20,4 +20,18 @@ implicit type conversion. Python supports implicit type conversion, thus we do n
 on changing the data types , we can change it when required as shown in the example in file the
 day3.py!!
 
+## Day 4
+ Conditional Statements
+Program 1 : How to take an input and print the sum
+Program 2/3 : Using the if-else statement and the concept of nested if
+Program 4 : Scenario (If the amount paid by the customer is less than the amount he purchased
+            the amount needs to be paid again)
+Assignment : Simplified program of program4 where we use the if-else statements and also the
+             '-' operator to calculate the difference
+
+## Day 5
+Simplified program of program4 where we use the if-else statements and also the
+ '-' operator to calculate the difference
+
+
 
