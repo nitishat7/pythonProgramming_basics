@@ -1,16 +1,16 @@
 
 # program1
-# num1 = int(input("Enter first number"))
-# num2 = int(input("Enter second number"))
-# num3 = int(input("Enter third number"))
-#
-# # res = int(num1) + int(num2)
-# res = num1 + num2 + num3
-# print("First number is ", num1)
-# print("Second number is ", num2)
-# print("Third number is ", num3)
-# print("Sum is ", res)
-#
+num1 = int(input("Enter first number"))
+num2 = int(input("Enter second number"))
+num3 = int(input("Enter third number"))
+
+# res = int(num1) + int(num2)
+res = num1 + num2 + num3
+print("First number is ", num1)
+print("Second number is ", num2)
+print("Third number is ", num3)
+print("Sum is ", res)
+
 
 # Program2
 # temperature = float(input("Enter today's temperature :"))
@@ -108,7 +108,6 @@ else:
     difference = -difference
     print("Insufficient Amount")
     print("Need to pay", difference)
-
 
 
 

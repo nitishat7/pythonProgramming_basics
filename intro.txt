@@ -32,6 +32,8 @@ Assignment : Simplified program of program4 where we use the if-else statements 
 ## Day 5
 Simplified program of program4 where we use the if-else statements and also the
  '-' operator to calculate the difference
-
+Program 1
+Program 2
+Program 3
 
 
