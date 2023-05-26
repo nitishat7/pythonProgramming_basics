@@ -91,5 +91,3 @@ if mark1 <= 100 and mark2 <= 100 and mark3 <= 100:
         print("Try Again!")
 else:
     print("Wrong Input")
-# comprehension
-stack = [st * st for st in range(10)]
