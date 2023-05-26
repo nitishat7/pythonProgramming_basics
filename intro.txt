@@ -36,4 +36,14 @@ Program 1
 Program 2
 Program 3
 
+dry kiss
+don't repeat yourself, keep it simple
+
+#day 6
+Loops
+
+looping is important in any programming language, in python also we use loops
+Examples are give in loop.py
+
+
 
