@@ -1,0 +1,10 @@
+t1 = ('sunday', 'monday', 'tuesday', 'wednesday', 'sunday', 33)
+print(type(t1))
+print(t1)
+print(len(t1))
+print(t1[0])
+print(t1[0:3])
+print(t1[-1])
+# t1[0] = 'random'
+# t1[0].append('Saturday')
+# t1.append('friday')
