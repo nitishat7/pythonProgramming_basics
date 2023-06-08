@@ -23,7 +23,7 @@ print(l1)
 l1 = []  # blank list
 n = int(input("How many student details you want:"))
 for i in range(n):
-    new_list = []
+    new_list = [] # another blank list
     name = input("Enter your name:")
     age = int(input("Enter your age:"))
     marks = float(input("Enter your marks:"))
@@ -33,7 +33,7 @@ for i in range(n):
     l1.append(new_list)
 print(l1)
 
-
+# we can write the strings in such ways
 str1 = 'ram'
 str2 = "hari"
 str3 = '''sita'''
