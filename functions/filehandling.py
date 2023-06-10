@@ -34,6 +34,25 @@ finally:  # this block executes everytime
     print("This is file handling")
 print("This is demo")
 
+
+# writing operation
+
+try:
+    f = open("text1.txt", 'w')
+    # data = f.read()
+    data = f.readlines()
+    print(data[0])
+    print(type(data))
+
+    f.close()
+except Exception as f:
+    print(f"Error on file {f}")
+else:
+    print("This is inside file")
+finally:  # this block executes everytime
+    print("This is file handling")
+print("This is demo")
+
 # w writes in the file, new file is created and content inside the file is overwritten
 # 'a' appends the content in the file, keeps on adding it
 # x is creating a file
